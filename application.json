@@ -44,6 +44,10 @@
     {
       "id": "newpage_branchb",
       "isDefault": false
+    },
+    {
+      "id": "newpage_branchc",
+      "isDefault": false
     }
   ]
 }
