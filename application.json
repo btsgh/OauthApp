@@ -40,6 +40,10 @@
     {
       "id": "newpage_brancha",
       "isDefault": false
+    },
+    {
+      "id": "newpage_branchb",
+      "isDefault": false
     }
   ]
 }
